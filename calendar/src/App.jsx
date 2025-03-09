@@ -4,8 +4,7 @@ import "./App.css";
 
 const App = () => {
   return (
-    <div className="calendar-container">
-      <h1>Calendar</h1>
+    <div>
       <Calendar />
     </div>
   );
